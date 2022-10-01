@@ -5,9 +5,11 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 > Trilha Explorer
 
+[Clique Aqui e acesse o projeto.](https://mayronn.github.io/nwl-esports-explorer/)
+
 ![preview](./.github/previewsite.png)
 
-[Clique aqui para acessar o projeto.](https://mayronn.github.io/nwl-esports-explorer/)
+
 
 ## Tecnologias
 
